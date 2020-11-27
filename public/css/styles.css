@@ -33,9 +33,10 @@ body {
   z-index: 2;
 }
 .top {
-  margin-bottom: -1px;
+  margin-bottom: 0px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
+  border-bottom: px;
 }
 .bottom {
   margin-bottom: 10px;
@@ -45,5 +46,5 @@ body {
 .middle{
 
   border-radius: 0px;
-  
+
 }
